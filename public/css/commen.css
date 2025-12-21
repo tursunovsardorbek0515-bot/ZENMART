@@ -19,7 +19,6 @@ p {
 
 /*navbar*/
 
-
 /* navbar-top */
 .navbar_frame {
   position: relative;
@@ -255,6 +254,6 @@ p {
   font-weight: 500;
   font-size: 16px;
   line-height: 28px;
+
   color: #ffffff;
 }
-/*navbar/*
