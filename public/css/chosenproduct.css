@@ -1,0 +1,87 @@
+.Electronics_smart {
+  width: 100%;
+  height: 50px;
+
+  display: flex;
+  flex-direction: row;
+
+  border-bottom: 1px solid #eaeaea;
+  justify-content: center;
+}
+.Electronics_smart .info_boxs {
+  margin-top: 14px;
+  width: 1320px;
+
+  display: flex;
+  flex-direction: row;
+}
+.Electronics_smart .info_box {
+  width: 1220px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.info_box a {
+  color: rgba(4, 30, 66, 1);
+
+  font-family: var(--font);
+  font-style: normal;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 22px;
+}
+.info_box a:hover {
+  font-weight: 500;
+  border-bottom: 3px solid #411e42;
+}
+/* product-info-frame */
+.home_Electronics {
+  width: 100%;
+  height: auto;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+ 
+}
+.product_info_frame {
+  margin-top: 20px;
+  position: relative;
+  width: 100%;
+  height: auto;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  .kantiner {
+    height: 838px;
+    flex-direction: row;
+    justify-content: space-between;
+
+    .left-wrapa {
+      width: 631px;
+      height: 796px;
+
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+
+      .left-katta-box {
+        width: 100%;
+        height: 686px;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+  
+        
+      }
+    }
+
+    
+ 
+  }
+}

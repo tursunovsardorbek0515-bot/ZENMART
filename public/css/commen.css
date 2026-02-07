@@ -465,7 +465,7 @@ p {
 .footer-frame .footer-bottom-right .footer-select-box {
   padding: 10px 20px;
   width: 180px;
-  height: 40px;
+  height: 44px;
 
   display: flex;
   flex-direction: row;
@@ -503,6 +503,7 @@ p {
   color: #041e42;
 }
 /* footer-frame */
+
 /* page router */
 .page-router {
   margin: 20px 0;

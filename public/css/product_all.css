@@ -141,7 +141,7 @@
   justify-content: center;
   border-radius: 50%;
 }
-.shop-page .dot.active {
+.shop-page .dot. {
   border: 3px solid #112137;
 }
 .shop-page .dot div {
